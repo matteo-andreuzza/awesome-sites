@@ -31,3 +31,9 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
   ## Gaming
    *Sites for gaming*
    * [instant gaming](https://www.instant-gaming.com/) -
+
+
+# Contributing
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/matteo-andreuzza/awesome-sites/blob/master/CONTRIBUTING.md) first.
+- - -
+If you have any question about this opinionated list, do not hesitate to open an issue on GitHub.
