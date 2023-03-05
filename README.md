@@ -38,6 +38,9 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
    *Sites for gaming*
    * [instant gaming](https://www.instant-gaming.com/) -
 
+  ## Gaming
+   *Interesting sites about the James Cameron's film Avatar*
+   * [Learn Na'vi](https://learnnavi.org/) - On this website you can learn the Na'vi people's languange, the Na'vi.
 
 # Contributing
 Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/matteo-andreuzza/awesome-sites/blob/master/CONTRIBUTING.md) first.
