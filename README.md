@@ -68,6 +68,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
   ## Gaming
    *Sites for gaming*
    * [instant gaming](https://www.instant-gaming.com/) -
+   * [Elunvi Games](https://elunvi.fun/) - Free browser games with shared-keyboard co-op and mobile number puzzles.
 
   ## Films
    *Interesting sites about the James Cameron's film Avatar*
